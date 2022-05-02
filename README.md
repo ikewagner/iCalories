@@ -2,10 +2,15 @@
 
 App pra voce calcular quando calorias voce comeu no seu dia.
 
+## 
+<br />
+<br />
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-05-02 at 11 06 27](https://user-images.githubusercontent.com/25329337/166247665-526fa174-8099-4ad5-96c9-b277feaa3e7f.png)
+![Captura de Tela 2022-05-02 às 11 11 37](https://user-images.githubusercontent.com/25329337/166248644-f1ef0a7c-a067-485e-aff4-bebe510407db.png)
 
 
+<br />
+<br />
 
 
 ## Tecnologias
