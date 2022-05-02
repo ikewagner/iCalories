@@ -1,6 +1,6 @@
 # iCalories 
 
-App pra voce calcular quando calorias voce comeu no seu dia.
+App que mantém o controle dos alimentos e calorias que você come ao longo do dia.
 
 ## 
 <br />
